@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@700 & display=swap');
+body{
+    background: url(photos/backgrd.png) no-repeat;
+    position: fixed;
+    background-color: #7DB9BB ;
+    width: 1200px;
+
+}
+ header{
+     display: flex;
+     justify-content: space-between;
+     margin: 30px;
+ }
+ .logo{
+     margin-left: 130px;
+ }
+ .follow{
+     display: flex;
+     margin: 30px;
+     margin-top: -8px;
+     margin-right: 500px;
+     border: 1px solid white;
+     border-radius: 30px;
+     justify-content: space-between;
+     width: 250px;
+ }
+ .img{
+     display: flex;
+     margin-top: 12px;
+     justify-content: space-between;
+     margin-right: 20px;
+    
+ }
+ .ball{
+     margin-top: -4px;
+
+ }
+ .twit{
+     margin-left: 18px;
+
+     }
+.yout{
+    margin-left: 20px;
+}
+.te{
+    margin-left: 5px;
+}
+ .text1{
+     
+     font-family : 'Montserrat', sans-serif ;
+     color: white;
+     letter-spacing: 3px;
+     font-size: 12px;
+     margin-top: 13px;
+     margin-left: 0px;
+
+ }
+ .angle-g{
+     display: flex;
+     /* margin-left: 100px; */
+     width: 10%;
+ }
+ .g2{
+     margin-left: 50px;
+ }
+  main{
+      margin-top: 150px;
+      margin-left: 200px;
+  }
+  .text2{
+      color: white;
+      font-family : 'Montserrat', sans-serif ;
+      font-size: 15px;
+  }
+ 
+
+.central{
+    color: white;
+    font-size:80px ;
+    width: 500px;
+    margin-top: -28px;
+}
+.bouton{
+   
+    margin-left: 40px;
+    margin-top: -20px;
+}
+.bt{
+    background:  #FFC80A;
+    border-radius: 35px;
+    border: 20px solid  #FFC80A ;
+}

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@700 & display=swap');
+body{
+background: url(photos/BG.png);
+
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+.logo{
+    margin-right: 10px;
+}
+.text1{
+    border: 1px solid white;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 35px;
+    width: 200px;
+}
+.sub{
+    color: white;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+
+}
+ 
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 140px;
+    margin-right: 100px;
+}
+.text2{
+    color: white;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+}
+
+.text3{
+    margin-top: -50px;
+}
+
+.centre{
+    color: white;
+    font-size: 70px;
+    width: 800px;
+    text-align: center;
+}
+ 
+.bt{
+    background-color:#FFC80A;
+    border: 15px solid #ffca0a71;
+    border-radius: 35px;
+    box-shadow: 1px 3px 10px 5px #FFC80A;
+    top: 250px;
+    text-align: center;
+    
+}
+.tp{
+    margin-top: -50px;
+}
+#value{
+    color: white;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+}
